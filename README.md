@@ -1,2 +1,2 @@
 # datalearn
-Here will be my learning projects
+Here will be my projects
