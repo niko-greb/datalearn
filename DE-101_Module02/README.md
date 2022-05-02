@@ -16,15 +16,15 @@
 
 **Концептуальная модель**
 
-![Концептуальная модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/Conceptual_model.png)
+![Концептуальная модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.4.%20Conceptual_model.png)
 
 **Логическая модель**
 
-![Логическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/Logical%20model.png)
+![Логическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.4.%20Logical%20model.png)
 
 **Физическая модель**
 
-![Физическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/Physical%20model.png)
+![Физическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.4.%20Physical%20model.png)
 
 ## Создаём БД в AWS RDS и загружаем данные
 
