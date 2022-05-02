@@ -4,27 +4,27 @@
 
 **Запросы для загрузки данных**
 
-- [x] [2.3. table_orders.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.3.%20table_orders.sql)
-- [x] [2.3. table_people.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.3.%20table_people.sql)
-- [x] [2.3. table_returns.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.3.%20table_returns.sql)
+- [x] [2.3. table_rows.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/table_rows.sql) (orders)
+- [x] [2.3. table_people.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/table_people.sql)
+- [x] [2.3. table_returns.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/table_returns.sql)
 
 **Делаем SQL запросы к БД**
 
-- [x] [2.3. query.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.3.%20query.sql)
+- [x] [2.3. query.sql](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/query.sql)
 
 ## Рисуем модель данных в SQLdbm для создания новой БД
 
 **Концептуальная модель**
 
-![Концептуальная модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.4.%20Conceptual_model.png)
+![Концептуальная модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/Conceptual_model.png)
 
 **Логическая модель**
 
-![Логическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.4.%20Logical%20model.png)
+![Логическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/Logical%20model.png)
 
 **Физическая модель**
 
-![Физическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/2.4.%20Physical%20model.png)
+![Физическая модель](https://github.com/niko-greb/datalearn/blob/main/DE-101_Module02/Physical%20model.png)
 
 ## Создаём БД в AWS RDS и загружаем данные
 
